@@ -75,6 +75,16 @@ O modelo de regressão foi capaz de prever a demanda com boa acurácia, permitin
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
+---
+
 ## 👨‍💻 Autor
 
-Desenvolvido por Gabriel Silva Menezes como parte da disciplina de Machine Learning e Analytics.  
+Desenvolvido por Gabriel Silva Menezes como parte da disciplina de Machine Learning e Analytics.
+
+---
+
+## 💻 Executar no Google Colab
+
+Clique no botão abaixo para abrir o notebook diretamente no Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GDMenezes/Second_MVP_ML_Analytics/blob/main/MVP_ML_%26_Analytics.ipynb)
